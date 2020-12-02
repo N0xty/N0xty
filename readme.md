@@ -1,6 +1,7 @@
-# ***Noxty***
+#                                                                    *Noxty*
 
-   [![Twitter](https://img.icons8.com/fluent-systems-regular/50/000000/twitter.png)](https://twitter.com/blxcknoxty)     
+<p align="center">
+<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://img.icons8.com/fluent-systems-regular/100/000000/twitter.png" alt="Noxty" height="20" width="20" /></a>
 
 #
 
@@ -10,12 +11,12 @@
 
 Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
-# Linguagens
+#                                                                    *Linguagens*
 
 [![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)]()
 [![Python](https://img.icons8.com/ios/50/000000/python.png)]()
 
-# Ferramentas
+#                                                                    *Ferramentas*
 
 [![Sublime Text 3](https://img.icons8.com/ios/50/000000/sublime-text.png)]()
 [![Visual Studio Code](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)]()
@@ -30,4 +31,4 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #
 
-   [![Banner Profile](https://data.whicdn.com/images/332959603/original.jpg)]()     
+[![Banner Profile](https://data.whicdn.com/images/332959603/original.jpg)]()     
