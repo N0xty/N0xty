@@ -5,7 +5,7 @@
 
 #
 
-   [![Icon Profile](https://i.pinimg.com/474x/a8/e3/9b/a8e39b287c7cd7af410dc230c36c226f.jpg)]()     
+<p align="center"><img src="https://i.pinimg.com/474x/a8/e3/9b/a8e39b287c7cd7af410dc230c36c226f.jpg" alt="Icon Profile"/></p>
 
 ## Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
@@ -13,15 +13,14 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #                                                                    *Linguagens*
 
-[![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)]()
-[![Python](https://img.icons8.com/ios/50/000000/python.png)]()
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript"/></p>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python"/></p>
 
 #                                                                    *Ferramentas*
 
-[![Sublime Text 3](https://img.icons8.com/ios/50/000000/sublime-text.png)]()
-[![Visual Studio Code](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)]()
-[![Github](https://img.icons8.com/ios/50/000000/github.png)]()
-
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/sublime-text.png" alt="Sublime Text 3"/></p>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/visual-studio-logo.png" alt="Visual Studio Code"/></p>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub"/></p>
 
 #
 
@@ -31,4 +30,4 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #
 
-[![Banner Profile](https://data.whicdn.com/images/332959603/original.jpg)]()     
+<p align="center"><img src="https://data.whicdn.com/images/332959603/original.jpg" alt="Banner Profile"/></p>
