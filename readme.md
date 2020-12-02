@@ -1,4 +1,4 @@
-[![Banner Profile]()]()
+[![Banner Profile](https://data.whicdn.com/images/332959603/original.jpg)]()
 
 ### Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
