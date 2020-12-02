@@ -10,7 +10,7 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 [Sublime Text 3](https://img.icons8.com/ios/50/000000/sublime-text.png)
 [Visual Studio Code](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)
-[Github](https://img.icons8.com/ios/50/000000/github.png)
+[![Github](https://img.icons8.com/ios/50/000000/github.png)]
 
 
 [![Twitter](https://img.icons8.com/fluent-systems-regular/50/000000/twitter.png)](https://twitter.com/blxcknoxty)
