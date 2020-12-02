@@ -1,7 +1,7 @@
 #                                                                    *Noxty*
 
 <p align="center">
-<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://img.icons8.com/fluent-systems-regular/100/000000/twitter.png" alt="Noxty" height="20" width="20" /></a>
+<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>
 
 #
 
@@ -13,13 +13,13 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #                                                                    *Linguagens*
 
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript"/><p align="center"><img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python"/></p>
+ [![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png&link=https://github.com/blxcknoxty)](https://github.com/https://github.com/blxcknoxty)
+ [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/blxcknoxty)](https://github.com/https://github.com/blxcknoxty)
 
 #                                                                    *Ferramentas*
 
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/sublime-text.png" alt="Sublime Text 3"/>
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/visual-studio-logo.png" alt="Visual Studio Code"/>
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub"/></p>
+[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/blxcknoxty "Visual Studio Code")](https://github.com/blxcknoxty)
+[![Visual Studio](https://img.icons8.com/ios-filled/50/000000/github.png&link=https://github.com/commandrose "Visual Studio")](https://github.com/commandrose)
 
 #
 
