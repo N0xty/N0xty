@@ -4,21 +4,23 @@
 
 #
 
-[![Banner Profile](https://data.whicdn.com/images/332959603/original.jpg)]()
-
-### Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
-
 [![Icon Profile](https://i.pinimg.com/474x/a8/e3/9b/a8e39b287c7cd7af410dc230c36c226f.jpg)]()
+
+## Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
 Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
-### Linguagens
+# Linguagens
 
 [![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)]()
 [![Python](https://img.icons8.com/ios/50/000000/python.png)]()
 
-### Ferramentas
+# Ferramentas
 
 [![Sublime Text 3](https://img.icons8.com/ios/50/000000/sublime-text.png)]()
 [![Visual Studio Code](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)]()
 [![Github](https://img.icons8.com/ios/50/000000/github.png)]()
+
+#
+
+[![Banner Profile](https://data.whicdn.com/images/332959603/original.jpg)]()
