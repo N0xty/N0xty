@@ -1,6 +1,8 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?Noxty=looskie&show_icons=true">
+[![Banner Profile](https://cdn.discordapp.com/attachments/774725581547372544/783472700021932042/95bc3120645b2aa157fb280d619a7181.png)]()
 
 ### Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
+
+[![Icon Profile](https://cdn.discordapp.com/attachments/774725581547372544/783472693034090496/original.jpg)]()
 
 Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
