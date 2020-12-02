@@ -13,13 +13,13 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #                                                                    *Linguagens*
 
- [![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png&link=https://github.com/blxcknoxty)](https://github.com/https://github.com/blxcknoxty)
- [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/blxcknoxty)](https://github.com/https://github.com/blxcknoxty)
+ [![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png)]()
+ [![Python](https://img.icons8.com/ios/50/000000/python.png)]()
 
 #                                                                    *Ferramentas*
 
-[![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/blxcknoxty "Visual Studio Code")](https://github.com/blxcknoxty)
-[![Visual Studio](https://img.icons8.com/ios-filled/50/000000/github.png&link=https://github.com/commandrose "Visual Studio")](https://github.com/commandrose)
+[![Visual Studio](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)]()
+[![GitHub](https://img.icons8.com/ios/50/000000/github.png)]()
 
 #
 
