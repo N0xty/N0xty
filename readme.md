@@ -4,12 +4,12 @@
 
 Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
-[JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)
-[Python](https://img.icons8.com/ios/50/000000/python.png)
+[![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png)]
+[![Python](https://img.icons8.com/ios/50/000000/python.png)]
 
 
-[Sublime Text 3](https://img.icons8.com/ios/50/000000/sublime-text.png)
-[Visual Studio Code](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)
+[![Sublime Text 3](https://img.icons8.com/ios/50/000000/sublime-text.png)]
+[![Visual Studio Code](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)]
 [![Github](https://img.icons8.com/ios/50/000000/github.png)]
 
 
