@@ -1,6 +1,6 @@
 # ***Noxty***
 
-- [![Twitter](https://img.icons8.com/fluent-systems-regular/50/000000/twitter.png)](https://twitter.com/blxcknoxty)
+   [![Twitter](https://img.icons8.com/fluent-systems-regular/50/000000/twitter.png)](https://twitter.com/blxcknoxty)
 
 #
 
@@ -8,7 +8,7 @@
 
 ### Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
-[![Icon Profile]()]()
+[![Icon Profile](https://i.pinimg.com/474x/a8/e3/9b/a8e39b287c7cd7af410dc230c36c226f.jpg)]()
 
 Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
