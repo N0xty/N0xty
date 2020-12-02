@@ -13,13 +13,13 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #                                                                    *Linguagens*
 
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript"/></p>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript"/>
 <p align="center"><img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python"/></p>
 
 #                                                                    *Ferramentas*
 
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/sublime-text.png" alt="Sublime Text 3"/></p>
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/visual-studio-logo.png" alt="Visual Studio Code"/></p>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/sublime-text.png" alt="Sublime Text 3"/>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/visual-studio-logo.png" alt="Visual Studio Code"/>
 <p align="center"><img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub"/></p>
 
 #
