@@ -13,8 +13,7 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #                                                                    *Linguagens*
 
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript"/>
-<p align="center"><img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python"/></p>
+<p align="center"><img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript"/><p align="center"><img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python"/></p>
 
 #                                                                    *Ferramentas*
 
