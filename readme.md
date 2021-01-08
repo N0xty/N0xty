@@ -5,7 +5,7 @@
 
 #
 
-<p align="center"><img src="https://i.pinimg.com/474x/a8/e3/9b/a8e39b287c7cd7af410dc230c36c226f.jpg" alt="Icon Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/avatars/664982830367113227/a_d3ccb726956ecde4a1a5473d33dcdfb0.gif?size=2048" alt="Icon Profile"/></p>
 
 ## Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
@@ -29,4 +29,4 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #
 
-<p align="center"><img src="https://data.whicdn.com/images/332959603/original.jpg" alt="Banner Profile"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/e1/15/df/e115df5d158889ef7ed639b11c23a153.png" alt="Banner Profile"/></p>
