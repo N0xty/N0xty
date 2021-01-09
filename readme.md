@@ -1,7 +1,7 @@
 #                                                                    *Noxty*
 
 <p align="center">
-<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="20" width="20" /></a>
+<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="20" width="20" /></a>
 
 #
 
