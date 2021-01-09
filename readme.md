@@ -20,13 +20,13 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 [![Visual Studio](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)]()
 [![GitHub](https://img.icons8.com/ios/50/000000/github.png)]()
-[![Git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png)]()
+[![Git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-48.png)]()
 
 #
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Noxty&show_icons=true&include_all_commits=true&count_private=true" alt="Noxty"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=blxcknoxty&show_icons=true&include_all_commits=true&count_private=true" alt="blxcknoxty"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noxty&layout=compact&card_width=445" alt="kristianrose"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blxcknoxty&layout=compact&card_width=445" alt="blxcknoxty"/></p>
 
 #
 
