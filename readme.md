@@ -13,13 +13,14 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #                                                                    *Linguagens*
 
- [![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript.png)]()
- [![Python](https://img.icons8.com/ios/50/000000/python.png)]()
+ [![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)]()
+ [![Python](https://img.icons8.com/color/48/000000/python.png)]()
 
 #                                                                    *Ferramentas*
 
-[![Visual Studio](https://img.icons8.com/ios/50/000000/visual-studio-logo.png)]()
+[![Visual Studio](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)]()
 [![GitHub](https://img.icons8.com/ios/50/000000/github.png)]()
+[![Git](https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-256.png)]()
 
 #
 
