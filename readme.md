@@ -5,7 +5,7 @@
 
 #
 
-<p align="center"><img src="https://cdn.discordapp.com/attachments/801224398598045757/807631707863253022/7684a0405689ee9952bcc798faf01a43.png" alt="Icon Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/801224398598045757/807631707863253022/7684a0405689ee9952bcc798faf01a43.png" alt="Icon Profile" height="100" width="100" /></p>
 
 ## Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
