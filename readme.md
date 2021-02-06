@@ -1,11 +1,11 @@
 #                                                                    *Noxty*
 
 <p align="center">
-<a href="https://twitter.com/blxcknoxty" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="20" width="20" /></a>
+<a href="https://twitter.com/N0xty" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="20" width="20" /></a>
 
 #
 
-<p align="center"><img src="https://cdn.discordapp.com/avatars/664982830367113227/a_d3ccb726956ecde4a1a5473d33dcdfb0.gif?size=2048" alt="Icon Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/801224398598045757/807631707863253022/7684a0405689ee9952bcc798faf01a43.png" alt="Icon Profile"/></p>
 
 ## Olá, seja bem vindo ao meu perfil no Github, meu nome é Noxty e sou estudante de programação.
 
@@ -30,4 +30,4 @@ Abaixo estão algumas linguagens e ferramentas que costumo usar.
 
 #
 
-<p align="center"><img src="https://i.pinimg.com/originals/e1/15/df/e115df5d158889ef7ed639b11c23a153.png" alt="Banner Profile"/></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/801224398598045757/807631706760675338/4b86574004bfdd82a84459e7979cee05.jpg" alt="Banner Profile"/></p>
